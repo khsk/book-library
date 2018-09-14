@@ -29,6 +29,9 @@ React + Rails によるSPA習作書籍管理アプリ
 ReactはJSXで書くため、畢竟webpackによるbabelを使用することになりました。  
 当時はbrowserifyかwebpackかという話が出ており、webpackの使用感を見る目的もあったと記憶しています。
 
+Reactに関する事前調査  
+[React.jsを使う前に公式を見ずQiitaなどを流し見してさらっと考えた - Qiita](https://qiita.com/khsk/items/36bc1b990a7c841b0b34)
+
 ReduxなどはまずはReactに慣れるため未使用でしたが、代わりに簡便化のため  
 [hokaccha/react-micro-container: Micro framework for React](https://github.com/hokaccha/react-micro-container)  
 を使用しました。  
